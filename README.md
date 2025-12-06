@@ -48,7 +48,7 @@ Hyperparameter tuning was done for different models and different Machine Learni
 * **Matplotlib & Seaborn**: For creating graphs and charts.
 * **Scikit-Learn**: For building the Machine Learning models.
 
-## 🚀 How to Use This Project
+##  How to Use This Project
 
 1.  **Clone the repository:**
     ```bash
